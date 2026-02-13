@@ -1,21 +1,48 @@
-# 💫 Sobre:
-# 👋 Olá, sou Willian Bonazzoli!  Sou um jovem facinado no mundo tecnológico, gosto de ter uma certa dor de cabeça criando coisas, lembro de quando meu pai comprou o nosso primeiro computador pra gente jogar, desde então tenho me dedicado a aprender mais sobre a internet, atualmente estou entrando no mundo da programação, minha maior motivação é ver os projetos criando vida. Penso em criar algo grande um dia quem sabe até algum jogo. <br><br>🐍 Desenvolvedor – <br>Com foco em automação e aplicações web.  🛠️ Tecnologias e Ferramentas<br><br>| Linguagem / Ferramenta | <br>|------------------------|<br>| Java               |<br>| Python                 | <br>| HTML, CSS, JavaScript  | <br>| 
+😃 Olá, eu sou Willian Bonazzoli
 
+Desenvolvedor em formação com foco em construção de sistemas, automação e aplicações web. Estou cursando Engenharia de Software.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/willian-bonazzoli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:willianbonazzoli@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Willianbonazolli&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Willianbonazolli&theme=shadow_red&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Willianbonazolli&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Willianbonazolli&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+Desde o primeiro contato com tecnologia, entendi que queria ir além de apenas usar softwares — queria entender, construir e melhorar soluções. Hoje, aplico esse interesse em projetos práticos, buscando evoluir diariamente em lógica, arquitetura e boas práticas de desenvolvimento.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Willianbonazolli&icon=2&color=4)](https://visitcount.itsvg.in)
+
+🚀 Foco Atual
+
+- Desenvolvimento Back-end e Front-end
+- Lógica e Estruturas de Dados
+- Automação
+- Construção de projetos 
+
+---
+
+🛠️ Stack Tecnológica
+
+| Linguagem / Ferramenta |
+|------------------------|
+| Python |
+| HTML | | CSS | | JavaScript |
+| REACT |
+| NODE.JS |
+| SQL |
+
+---
+
+📚 Em Evolução Constante
+
+- Organização e modularização de código
+- Tratamento de erros e validação
+- Boas práticas de versionamento
+- Estruturação de projetos.
+
+---
+
+💡 Mentalidade
+
+Acredito que programação não é apenas escrever código, mas resolver problemas com clareza e eficiência.  
+Busco desenvolver projetos que simulem ambientes reais de mercado para acelerar minha evolução como desenvolvedor.
+
+---
+
+📌 Sempre aberto a aprender, colaborar e evoluir.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
