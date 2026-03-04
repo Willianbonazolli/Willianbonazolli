@@ -29,9 +29,9 @@ Desde o primeiro contato com tecnologia, entendi que queria ir além de apenas u
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willianbonazolli&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e8c97a&icon_color=e8c97a)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=Willianbonazolli&theme=dark&hide_border=true&background=0d1117&ring=e8c97a&fire=e8c97a&currStreakLabel=e8c97a)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Willianbonazolli&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e8c97a&icon_color=e8c97a)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Willianbonazolli&theme=github_dark)
 
 ---
 
