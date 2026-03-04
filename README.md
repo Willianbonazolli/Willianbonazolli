@@ -14,6 +14,8 @@ Desde o primeiro contato com tecnologia, entendi que queria ir além de apenas u
 - Construção de projetos 
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Willianbonazolli&show_icons=true&theme=dark)
+
 
 🛠️ Stack Tecnológica
 
