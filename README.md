@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=18&duration=3000&pause=1000&color=FF3A3A&center=true&vCenter=true&width=550&height=45&lines=Engenharia+de+Software+%F0%9F%8E%93;Construindo+projetos+reais+desde+o+início+🔨;Apaixonado+por+tecnologia+e+boas+ideias+💡;De+fã+de+games+a+dev+de+games+sites+🎮)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=18&duration=3000&pause=1000&color=FF3A3A&center=true&vCenter=true&width=600&height=45&lines=Engenharia+de+Software+%F0%9F%8E%93;Transformando+café+em+código+desde+cedo+☕;Debugando+a+vida+um+erro+por+vez+🐛;Fã+de+games+que+virou+dev+de+sites+de+games+🎮;git+commit+-m+%22mais+um+dia+evoluindo%22+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,6 +17,7 @@
 <div align="center">
 
 ## Olá! Eu sou o Willian 👋
+### *(sim, com dois L mesmo)*
 
 </div>
 
@@ -24,22 +25,25 @@
 
 &nbsp;
 
-Sou estudante de **Engenharia de Software** e desenvolvedor em formação — mas acima de tudo, sou alguém que **adora construir coisas**.
+Sou estudante de **Engenharia de Software** e desenvolvedor em formação.
 
-Tudo começou com aquela curiosidade de entender o que estava por baixo dos softwares que usava. Hoje essa curiosidade virou prática: projetos reais, código limpo, e uma vontade enorme de evoluir.
+Não entrei na área por acidente — entrei porque fiquei curioso demais sobre o que acontecia **por baixo dos panos** dos softwares que usava. Spoiler: é muita coisa. E eu adorei.
+
+Hoje passo meu tempo construindo projetos, encontrando bugs que eu mesmo criei, e aprendendo com cada um deles. 🐛
 
 &nbsp;
 
-🎓 **Engenharia de Software** — em curso  
+🎓 **Engenharia de Software** — em curso *(sem previsão de término dos bugs)*  
 🔨 **Foco:** Front-end, Back-end e Automação  
-🎮 **Diferencial:** transformo paixões em projetos  
-📍 **Status:** sempre codando alguma coisa  
+🎮 **Diferencial:** transformo paixões em projetos reais  
+☕ **Combustível:** café + curiosidade + Stack Overflow  
+📍 **Status:** digitando furiosamente em algum lugar  
 
 <br clear="left"/>
 
 ---
 
-## 🧰 Tecnologias
+## 🧰 Tecnologias que uso *(e que às vezes me usam)*
 
 <div align="center">
 
@@ -102,7 +106,7 @@ Tudo começou com aquela curiosidade de entender o que estava por baixo dos soft
 
 ---
 
-## 📊 GitHub em números
+## 📊 GitHub em números *(o juiz não mente)*
 
 <div align="center">
 
@@ -113,11 +117,13 @@ Tudo começou com aquela curiosidade de entender o que estava por baixo dos soft
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Willianbonazolli&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Willianbonazolli&theme=github_dark&utcOffset=-3" />
 
+> *"Se tem commit de madrugada, é porque o problema era sério... ou porque eu entrei no flow."* 🌙
+
 </div>
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos *(onde a diversão encontra o código)*
 
 <div align="center">
 
@@ -127,7 +133,7 @@ Tudo começou com aquela curiosidade de entender o que estava por baixo dos soft
 
 [![Ver projeto](https://img.shields.io/badge/Ver%20projeto-FF3A3A?style=for-the-badge&logo=github&logoColor=white)](https://willianbonazolli.github.io/meu-site-exp33/)
 
-Quando um jogo ganha 9 prêmios no The Game Awards, você não apenas joga — você constrói um site sobre ele. Design imersivo, animações e narrativa inspirada na Belle Époque francesa.
+O jogo ganhou 9 prêmios no The Game Awards. Eu fiz o que qualquer dev apaixonado faria: **construí um site inteiro sobre ele.** Design imersivo, animações e narrativa inspirada na Belle Époque francesa. Zero arrependimentos.
 
 `HTML` · `CSS` · `JavaScript`
 
@@ -137,7 +143,7 @@ Quando um jogo ganha 9 prêmios no The Game Awards, você não apenas joga — v
 
 [![Ver projeto](https://img.shields.io/badge/Ver%20projeto-FF3A3A?style=for-the-badge&logo=github&logoColor=white)](https://willianbonazolli.github.io/silksong/story.html)
 
-Experiência narrativa mergulhada no universo sombrio e poético de Hollow Knight: Silksong. Um projeto onde o design conta a história.
+A espera por Silksong é longa. Então enquanto espero, **construí um site no universo dele.** Experiência narrativa sombria e poética — porque esperar também pode ser criativo.
 
 `HTML` · `CSS` · `JavaScript`
 
@@ -147,7 +153,7 @@ Experiência narrativa mergulhada no universo sombrio e poético de Hollow Knigh
 
 [![Ver projeto](https://img.shields.io/badge/Ver%20projeto-FF3A3A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-fotografo-two.vercel.app/)
 
-Portfólio profissional moderno e responsivo para apresentação de trabalhos fotográficos. Elegante, rápido e direto ao ponto.
+Nem todo projeto é de jogo. Às vezes é uma **vitrine elegante** para quem captura momentos. Portfólio responsivo, rápido e bonito — do jeito que cliente gosta.
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS`
 
@@ -157,20 +163,29 @@ Portfólio profissional moderno e responsivo para apresentação de trabalhos fo
 
 ---
 
+## 🧠 O que estou evoluindo *(lista honesta)*
+
+- ✅ Organização e modularização de código *(menos gambiarras, mais estrutura)*
+- ✅ Tratamento de erros *(parei de só usar try/catch em tudo e rezar)*
+- ✅ Boas práticas de versionamento *(`git commit -m "fix"` era eu antes)*
+- 🔄 Arquitetura de projetos *(ainda aprendendo, sempre aprendendo)*
+
+---
+
 ## 💬 O que me move
 
 <div align="center">
 
-> *"Programação não é apenas escrever código —*  
+> *"Programação não é apenas escrever código —*
 > *é resolver problemas com clareza e criatividade."*
+>
+> *(e às vezes é ficar 3 horas procurando um erro que era uma vírgula)*
 
 </div>
 
-Busco evoluir em **organização de código**, **boas práticas de versionamento** e **arquitetura de projetos** — construindo coisas que funcionam de verdade.
-
 ---
 
-## 📫 Contato
+## 📫 Me acha aqui
 
 <div align="center">
 
@@ -180,7 +195,7 @@ Busco evoluir em **organização de código**, **boas práticas de versionamento
 
 <br/>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Willianbonazolli.Willianbonazolli&color=FF3A3A&style=flat-square&label=visitantes+no+perfil)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Willianbonazolli.Willianbonazolli&color=FF3A3A&style=flat-square&label=pessoas+que+me+visitaram+%28ol%C3%A1+%F0%9F%91%8B%29)
 
 </div>
 
@@ -190,11 +205,12 @@ Busco evoluir em **organização de código**, **boas práticas de versionamento
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="cobrinha comendo meus commits" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a0000,100:0d0d0d&height=100&section=footer&animation=blinking&fontColor=ffffff" />
 
-*⚡ Sempre aberto a aprender, colaborar e evoluir.*
+*⚡ Sempre aberto a aprender, colaborar e evoluir — um commit de cada vez.*
+*(e sim, eu releio meu próprio README às vezes só pra me motivar)*
 
 </div>
