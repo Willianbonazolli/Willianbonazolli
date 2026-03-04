@@ -1,46 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Willian%20Bonazzoli&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desenvolvedor%20em%20Formação%20%7C%20Engenharia%20de%20Software&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5&height=220&section=header&text=WILLIAN%20BONAZZOLI&fontSize=48&fontColor=FF0033&animation=fadeIn&fontAlignY=38&stroke=FF0033&strokeWidth=2&desc=⚡%20Desenvolvedor%20em%20Formação%20%7C%20Engenharia%20de%20Software%20⚡&descAlignY=60&descSize=15&descColor=CC0022" />
 
 </div>
 
+<!-- Typing animado - frases em sequência -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E8C97A&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Olá%2C+eu+sou+Willian+Bonazzoli+👋;Construindo+soluções+com+código+🚀;Sempre+aprendendo%2C+sempre+evoluindo+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=FF0033&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=💀+Construindo+o+futuro+linha+por+linha...;🔥+Back-end+%7C+Front-end+%7C+Automação;⚡+Engenharia+de+Software+em+formação;🚀+Sempre+aprendendo%2C+sempre+evoluindo;👾+Code.+Build.+Break.+Repeat.)](https://git.io/typing-svg)
+
+</div>
+
+<!-- Snake animation no perfil -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
 ---
 
-Desenvolvedor em formação com foco em construção de sistemas, automação e aplicações web. Estou cursando **Engenharia de Software**.
+<!-- Sobre mim com visual diferenciado -->
+<img align="right" width="300" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
-Desde o primeiro contato com tecnologia, entendi que queria ir além de apenas usar softwares — queria entender, construir e melhorar soluções. Hoje, aplico esse interesse em projetos práticos, buscando evoluir diariamente em lógica, arquitetura e boas práticas de desenvolvimento.
+### `> whoami`
+
+```bash
+Nome     : Willian Bonazzoli
+Área     : Engenharia de Software
+Foco     : Back-end | Front-end | Automação
+Status   : Em constante evolução 🔥
+Missão   : Construir soluções reais com código limpo
+```
+
+Desde o primeiro contato com tecnologia, entendi que queria ir além de apenas usar softwares — queria **entender, construir e melhorar** soluções.
+
+Hoje, aplico esse interesse em projetos práticos, buscando evoluir diariamente em **lógica, arquitetura e boas práticas** de desenvolvimento.
+
+<br clear="right"/>
 
 ---
 
 ## 🚀 Foco Atual
 
-- Desenvolvimento Back-end e Front-end
-- Lógica e Estruturas de Dados
-- Automação
-- Construção de projetos
+```
+▓▓▓▓▓▓▓▓▓▓  Desenvolvimento Back-end e Front-end
+▓▓▓▓▓▓▓▓░░  Lógica e Estruturas de Dados
+▓▓▓▓▓▓░░░░  Automação de sistemas
+▓▓▓▓▓▓▓▓▓░  Construção de projetos reais
+```
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Arsenal Tecnológico
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- Front-end -->
+![HTML5](https://img.shields.io/badge/HTML5-FF0033?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-CC0022?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a0000?style=for-the-badge&logo=javascript&logoColor=FF0033)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a0000?style=for-the-badge&logo=typescript&logoColor=FF0033)
+![React](https://img.shields.io/badge/React-0d0000?style=for-the-badge&logo=react&logoColor=FF0033)
+![Next.js](https://img.shields.io/badge/Next.js-0d0000?style=for-the-badge&logo=nextdotjs&logoColor=FF0033)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-1a0000?style=for-the-badge&logo=tailwindcss&logoColor=FF0033)
+
+<!-- Back-end -->
+![Node.js](https://img.shields.io/badge/Node.js-0d0000?style=for-the-badge&logo=nodedotjs&logoColor=FF0033)
+![Python](https://img.shields.io/badge/Python-1a0000?style=for-the-badge&logo=python&logoColor=FF0033)
+![SQL](https://img.shields.io/badge/SQL-0d0000?style=for-the-badge&logo=mysql&logoColor=FF0033)
+
+<!-- Tools -->
+![Git](https://img.shields.io/badge/Git-FF0033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0d0000?style=for-the-badge&logo=github&logoColor=FF0033)
+![VS Code](https://img.shields.io/badge/VS_Code-1a0000?style=for-the-badge&logo=visualstudiocode&logoColor=FF0033)
 
 </div>
 
@@ -50,9 +87,12 @@ Desde o primeiro contato com tecnologia, entendi que queria ir além de apenas u
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Willianbonazolli&theme=dark&hide_border=true&background=0d1117&ring=e8c97a&fire=e8c97a&currStreakLabel=e8c97a)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Willianbonazolli&theme=dark&hide_border=true&background=0d0000&ring=FF0033&fire=CC0022&currStreakLabel=FF0033&sideLabels=FF0033&dates=888888&stroke=FF0033" />
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Willianbonazolli&theme=github_dark)
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Willianbonazolli&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Willianbonazolli&theme=github_dark&utcOffset=-3" />
 
 </div>
 
@@ -62,11 +102,33 @@ Desde o primeiro contato com tecnologia, entendi que queria ir além de apenas u
 
 <div align="center">
 
-| Projeto | Descrição | Tecnologias | Link |
-|--------|-----------|-------------|------|
-| 🎮 **Expedition 33** | Site temático imersivo dedicado ao jogo *Clair Obscur: Expedition 33*, vencedor de 9 prêmios no The Game Awards 2025. Foco em design imersivo, animações CSS e experiência narrativa. | HTML · CSS · JS | [🔗 Ver projeto](https://willianbonazolli.github.io/meu-site-exp33/) |
-| 🦋 **Silksong Fan Site** | Experiência narrativa baseada no universo de *Hollow Knight: Silksong*. Site temático com foco em atmosfera visual e storytelling interativo. | HTML · CSS · JS | [🔗 Ver projeto](https://willianbonazolli.github.io/silksong/story.html) |
-| 📷 **Portfólio Fotógrafo** | Portfólio digital moderno e responsivo para apresentação de trabalhos fotográficos profissionais, com galerias, bio e área de contato. | Next.js · React · TypeScript · Tailwind | [🔗 Ver projeto](https://portfolio-fotografo-two.vercel.app/) |
+<a href="https://willianbonazolli.github.io/meu-site-exp33/">
+  <img src="https://img.shields.io/badge/🎮_EXPEDITION_33-Fan_Experience-FF0033?style=for-the-badge&labelColor=0d0000" />
+</a>
+
+> Site temático imersivo dedicado ao jogo *Clair Obscur: Expedition 33*, **vencedor de 9 prêmios** no The Game Awards 2025. Foco em design cinematográfico, animações CSS e experiência narrativa.
+> 
+> `HTML` `CSS` `JavaScript` `Animações` `Design Imersivo`
+
+---
+
+<a href="https://willianbonazolli.github.io/silksong/story.html">
+  <img src="https://img.shields.io/badge/🦋_SILKSONG-Fan_Site-CC0022?style=for-the-badge&labelColor=0d0000" />
+</a>
+
+> Experiência narrativa baseada no universo de *Hollow Knight: Silksong*. Site temático com foco em atmosfera visual, storytelling interativo e identidade visual própria.
+>
+> `HTML` `CSS` `JavaScript` `Storytelling` `Design Temático`
+
+---
+
+<a href="https://portfolio-fotografo-two.vercel.app/">
+  <img src="https://img.shields.io/badge/📷_PORTFÓLIO_FOTÓGRAFO-Projeto_Profissional-FF0033?style=for-the-badge&labelColor=0d0000" />
+</a>
+
+> Portfólio digital moderno e responsivo para apresentação de trabalhos fotográficos profissionais, com galerias elegantes, bio e área de contato. Deploy na Vercel.
+>
+> `Next.js` `React` `TypeScript` `Tailwind CSS` `Vercel`
 
 </div>
 
@@ -74,18 +136,36 @@ Desde o primeiro contato com tecnologia, entendi que queria ir além de apenas u
 
 ## 🔧 Em Evolução Constante
 
-- Organização e modularização de código
-- Tratamento de erros e validação
-- Boas práticas de versionamento
-- Estruturação de projetos
+<div align="center">
+
+| 🧩 Habilidade | 📊 Progresso |
+|---|---|
+| Organização e modularização de código | `▓▓▓▓▓▓▓▓░░` 80% |
+| Tratamento de erros e validação | `▓▓▓▓▓▓░░░░` 60% |
+| Boas práticas de versionamento | `▓▓▓▓▓▓▓░░░` 70% |
+| Estruturação de projetos | `▓▓▓▓▓▓▓▓░░` 80% |
+
+</div>
 
 ---
 
 ## 💡 Mentalidade
 
-> *"Programação não é apenas escrever código, mas resolver problemas com clareza e eficiência."*
+<div align="center">
 
-Busco desenvolver projetos que simulem ambientes reais de mercado para acelerar minha evolução como desenvolvedor.
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   "Programação não é apenas escrever código,             ║
+║    mas resolver problemas com clareza e eficiência."     ║
+║                                                          ║
+║                              — Willian Bonazzoli         ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+Busco desenvolver projetos que simulem **ambientes reais de mercado** para acelerar minha evolução como desenvolvedor.
 
 ---
 
@@ -93,8 +173,9 @@ Busco desenvolver projetos que simulem ambientes reais de mercado para acelerar 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willianbonazolli)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Willianbonazolli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0033?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willianbonazolli)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0000?style=for-the-badge&logo=github&logoColor=FF0033)](https://github.com/Willianbonazolli)
+[![Portfolio](https://img.shields.io/badge/🎮_Portfolio-FF0033?style=for-the-badge&logoColor=white)](https://willianbonazolli.github.io/meu-site-exp33/)
 
 </div>
 
@@ -102,8 +183,10 @@ Busco desenvolver projetos que simulem ambientes reais de mercado para acelerar 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Willianbonazolli.Willianbonazolli&color=FF0033&style=flat-square)
 
-⚡ *Sempre aberto a aprender, colaborar e evoluir.*
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5&height=120&section=footer&animation=fadeIn&stroke=FF0033&strokeWidth=1" />
+
+**⚡ Sempre aberto a aprender, colaborar e evoluir. ⚡**
 
 </div>
