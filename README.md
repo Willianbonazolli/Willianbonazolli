@@ -1,147 +1,140 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=timeAnim&color=gradient&customColorList=0,2,2,5&height=300&section=header&text=WILLIAN%20BONAZZOLI&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Engenharia%20de%20Software%20•%20Desenvolvedor%20em%20Formação&descAlignY=60&descSize=16&descColor=aaaaaa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5&height=280&section=header&text=Willian%20Bonazzoli&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenharia%20de%20Software%20•%20Dev%20em%20Formação&descSize=18&descColor=FF3A3A&descAlignY=58&stroke=FF3A3A&strokeWidth=2" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=FF3A3A&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=55&lines=Olá%2C+eu+sou+o+Willian+👋;Front-end+•+Back-end+•+Automação+🔧;Transformando+ideias+em+código+💻;Fã+de+games+que+virou+dev+🎮;Sempre+aprendendo%2C+nunca+parando+🚀)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
 <div align="center">
-
-```
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│   $ whoami                                               │
-│   > Willian. Dev em formação. Fã de bons projetos.       │
-│                                                          │
-│   $ cat motivação.txt                                    │
-│   > Entender o que está por baixo de tudo.               │
-│                                                          │
-│   $ status                                               │
-│   > Construindo. Quebrando. Aprendendo. Repeat.          │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
-```
-
+  <img src="https://komarev.com/ghpvc/?username=Willianbonazolli&style=for-the-badge&color=8B0000&label=VISITANTES" />
+  <img src="https://img.shields.io/github/followers/Willianbonazolli?style=for-the-badge&color=8B0000&labelColor=0d0d0d&label=SEGUIDORES" />
 </div>
-
-<br/>
 
 ---
 
-<div align="center">
+## 🧬 Sobre mim
 
-### 🎬 — O enredo até aqui —
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" />
 
-</div>
+Sou estudante de **Engenharia de Software** movido por uma coisa simples:
+**curiosidade sobre como tudo funciona.**
 
-<img align="right" width="260" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+Do primeiro `console.log("olá mundo")` até projetos com Next.js e TypeScript — cada linha de código foi um passo intencional.
 
-Não aprendi a programar para ter um emprego.
-Aprendi porque **não conseguia parar de perguntar como as coisas funcionam.**
+Não espero ter tudo pronto para começar. Começo, erro, aprendo e melhoro. É assim que projetos reais nascem.
 
-Cada projeto é um capítulo. Cada bug resolvido, uma virada de página.
-Hoje curso **Engenharia de Software** e construo projetos reais — de fan sites imersivos a portfólios profissionais.
-
-A história ainda está sendo escrita. 🖊️
-
-<br/>
-
-🎓 Engenharia de Software — em curso
-🔭 Front-end · Back-end · Automação
-🎮 Games que viram projetos
-🌱 Evoluindo todos os dias
+**Hoje:**
+- 🎓 Cursando Engenharia de Software
+- 🔭 Projetos reais de front-end e back-end
+- 🎮 Fan de games — e isso vira projeto
+- ⚡ Comprometido com boas práticas desde cedo
 
 <br clear="right"/>
 
 ---
 
+## 🛠️ Stack Tecnológica
+
 <div align="center">
 
-### 🧩 Stack
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6" />
 <br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,mysql,git,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=tailwind,nodejs,python,mysql,git,vscode&perline=6" />
 
 </div>
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-### 📡 Atividade
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Willianbonazolli&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF3A3A&icon_color=FF3A3A&text_color=ffffff&ring_color=FF3A3A" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Willianbonazolli&theme=dark&hide_border=true&background=0d0d0d&ring=FF3A3A&fire=CC0000&currStreakLabel=ffffff&sideLabels=888888&dates=444444" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Willianbonazolli&theme=redical&bg_color=0d0d0d&color=FF3A3A&line=CC0000&point=ffffff&area=true&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Willianbonazolli&theme=dark&hide_border=true&background=0d0d0d&ring=FF3A3A&fire=CC0000&currStreakLabel=ffffff&sideLabels=888888&dates=444444" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Willianbonazolli&theme=redical&bg_color=0d0d0d&color=FF3A3A&line=CC0000&point=ffffff&area=true&hide_border=true&radius=8" />
 
 </div>
 
 ---
 
+## 🚀 Projetos em Destaque
+
 <div align="center">
 
-### 🗂️ Projetos
+<a href="https://willianbonazolli.github.io/meu-site-exp33/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Willianbonazolli&repo=meu-site-exp33&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF3A3A&icon_color=FF3A3A&text_color=aaaaaa" />
+</a>
+<a href="https://willianbonazolli.github.io/silksong/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Willianbonazolli&repo=silksong&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF3A3A&icon_color=FF3A3A&text_color=aaaaaa" />
+</a>
 
 </div>
 
 <br/>
 
-> **⚔️ [Expedition 33 — Fan Experience](https://willianbonazolli.github.io/meu-site-exp33/)**
->
-> 9 prêmios no The Game Awards. Um mundo onde a morte é pintada. Um site onde cada detalhe é intencional — animações, narrativa e design cinematográfico inspirado na Belle Époque.
->
-> ![HTML](https://img.shields.io/badge/HTML-0d0d0d?style=flat-square&logo=html5&logoColor=FF3A3A) ![CSS](https://img.shields.io/badge/CSS-0d0d0d?style=flat-square&logo=css3&logoColor=FF3A3A) ![JS](https://img.shields.io/badge/JS-0d0d0d?style=flat-square&logo=javascript&logoColor=FF3A3A)
+<div align="center">
 
-<br/>
+| 🎮 Projeto | 📝 Descrição | 🔗 |
+|---|---|---|
+| **Expedition 33** | Site imersivo do vencedor de 9 prêmios no TGA 2025. Design cinematográfico, animações e narrativa na Belle Époque. | [Ver →](https://willianbonazolli.github.io/meu-site-exp33/) |
+| **Silksong Fan Site** | Experiência narrativa sombria no universo de Hollow Knight: Silksong. Atmosfera e storytelling visual. | [Ver →](https://willianbonazolli.github.io/silksong/story.html) |
+| **Portfólio Fotógrafo** | Portfólio profissional moderno e responsivo com Next.js, TypeScript e Tailwind. Deploy na Vercel. | [Ver →](https://portfolio-fotografo-two.vercel.app/) |
 
-> **🦋 [Silksong — Fan Site](https://willianbonazolli.github.io/silksong/story.html)**
->
-> Uma espera que virou projeto. Universo sombrio, narrativa visual e atmosfera construída pixel a pixel para quem sente o mundo antes de jogar.
->
-> ![HTML](https://img.shields.io/badge/HTML-0d0d0d?style=flat-square&logo=html5&logoColor=FF3A3A) ![CSS](https://img.shields.io/badge/CSS-0d0d0d?style=flat-square&logo=css3&logoColor=FF3A3A) ![JS](https://img.shields.io/badge/JS-0d0d0d?style=flat-square&logo=javascript&logoColor=FF3A3A)
-
-<br/>
-
-> **📷 [Portfólio Fotógrafo](https://portfolio-fotografo-two.vercel.app/)**
->
-> Design limpo para quem captura o mundo através de lentes. Portfólio moderno, responsivo e elegante — com galerias, bio e contato. Deploy na Vercel.
->
-> ![Next](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=FF3A3A) ![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=FF3A3A) ![TS](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=FF3A3A) ![Tailwind](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=FF3A3A)
+</div>
 
 ---
 
+## 🐍 Contribuições
+
 <div align="center">
 
-### 💬 Uma verdade simples
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## 💡 Mentalidade
+
+<div align="center">
 
 > *"Programação não é apenas escrever código —*
 > *é resolver problemas com clareza e criatividade."*
 
-<br/>
+</div>
+
+---
+
+## 📬 Contato
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=FF3A3A)](https://linkedin.com/in/willianbonazolli)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=FF3A3A)](https://github.com/Willianbonazolli)
 [![Portfólio](https://img.shields.io/badge/Portfólio-0d0d0d?style=for-the-badge&logo=firefox&logoColor=FF3A3A)](https://willianbonazolli.github.io/meu-site-exp33/)
 
-<br/>
+</div>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Willianbonazolli.Willianbonazolli&color=CC0000&style=flat-square&label=visitantes)
+---
 
-<br/>
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5&height=120&section=footer&animation=fadeIn&stroke=FF3A3A&strokeWidth=1" />
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=timeAnim&color=gradient&customColorList=0,2,2,5&height=120&section=footer&animation=fadeIn&fontColor=ffffff&desc=Sempre%20aberto%20a%20aprender%2C%20colaborar%20e%20evoluir&descSize=14&descAlignY=60&descColor=888888" />
+*⚡ Sempre aberto a aprender, colaborar e evoluir.*
 
 </div>
