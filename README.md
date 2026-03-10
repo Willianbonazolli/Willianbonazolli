@@ -123,7 +123,7 @@ Não espero ter tudo pronto para começar. Começo, erro, aprendo e melhoro. É 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=FF3A3A)]([https://linkedin.com/in/willianbonazolli](https://www.linkedin.com/in/willian-bonazzoli/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=FF3A3A)](https://www.linkedin.com/in/willian-bonazzoli/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=FF3A3A)](https://github.com/Willianbonazolli)
 [![Portfólio](https://img.shields.io/badge/Portfólio-0d0d0d?style=for-the-badge&logo=firefox&logoColor=FF3A3A)](https://willianbonazolli.github.io/meu-site-exp33/)
 
