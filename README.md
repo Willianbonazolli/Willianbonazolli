@@ -26,9 +26,9 @@
 Sou estudante de **Engenharia de Software** movido por uma coisa simples:
 **curiosidade sobre como tudo funciona.**
 
-Do primeiro `console.log("olá mundo")` até projetos com Next.js e TypeScript — cada linha de código foi um passo intencional.
+Do primeiro `console.log("olá mundo")` até projetos com Next.js e TypeScript — 
 
-Não espero ter tudo pronto para começar. Começo, erro, aprendo e melhoro. É assim que projetos reais nascem.
+Não espero ter tudo pronto para começar. Começo, erro, aprendo e melhoro.
 
 **Hoje:**
 -  Atualmente estou cursando Engenharia de Software
