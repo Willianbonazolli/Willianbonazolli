@@ -93,7 +93,7 @@ Não espero ter tudo pronto para começar. Começo, erro, aprendo e melhoro. É 
 
 ---
 
-## 🐍 Contribuições
+##  Contribuições
 
 <div align="center">
 
@@ -120,8 +120,6 @@ Não espero ter tudo pronto para começar. Começo, erro, aprendo e melhoro. É 
 [![Portfólio](https://img.shields.io/badge/Portfólio-0d0d0d?style=for-the-badge&logo=firefox&logoColor=FF3A3A)](https://willianbonazolli.github.io/meu-site-exp33/)
 
 </div>
-
----
 
 <div align="center">
 
