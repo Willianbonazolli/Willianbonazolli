@@ -39,7 +39,7 @@ Não espero ter tudo pronto para começar. Começo, erro, aprendo e melhoro. É 
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Stack 
 
 <div align="center">
 
