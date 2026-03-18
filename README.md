@@ -107,13 +107,6 @@ Não espero ter tudo pronto para começar. Começo, erro, aprendo e melhoro. É 
 
 ---
 
-## 💡 Mentalidade
-
-<div align="center">
-
-> *"Programação não é apenas escrever código —*
-> *é resolver problemas com clareza e criatividade."*
-
 </div>
 
 ---
@@ -134,6 +127,5 @@ Não espero ter tudo pronto para começar. Começo, erro, aprendo e melhoro. É 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5&height=120&section=footer&animation=fadeIn&stroke=FF3A3A&strokeWidth=1" />
 
-*⚡ Sempre aberto a aprender, colaborar e evoluir.*
 
 </div>
