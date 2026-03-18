@@ -31,10 +31,9 @@ Do primeiro `console.log("olá mundo")` até projetos com Next.js e TypeScript �
 Não espero ter tudo pronto para começar. Começo, erro, aprendo e melhoro. É assim que projetos reais nascem.
 
 **Hoje:**
-- 🎓 Cursando Engenharia de Software
-- 🔭 Projetos reais de front-end e back-end
-- 🎮 Fan de games — e isso vira projeto
-- ⚡ Comprometido com boas práticas desde cedo
+-  Atualmente estou cursando Engenharia de Software
+-  Trabalhando com projetos pessoais Full-Stack
+-  Aprendendo boas práticas de código 
 
 <br clear="right"/>
 
