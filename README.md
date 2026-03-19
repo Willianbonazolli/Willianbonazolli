@@ -15,7 +15,7 @@ Gosto de transformar ideias em projetos reais, evoluindo na prática e buscando 
 
 ---
 
-##  Atualmente
+## Atualmente
 
 *  Cursando Engenharia de Software
 *  Desenvolvendo projetos Full-Stack
@@ -27,7 +27,7 @@ Gosto de transformar ideias em projetos reais, evoluindo na prática e buscando 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,mysql,git&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,c,postgres,mysql,git&perline=6" />
 
 </div>
 
