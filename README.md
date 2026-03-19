@@ -19,7 +19,7 @@
 
 ---
 
-## 🧬 Sobre mim
+## Sobre mim
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" />
 
@@ -39,7 +39,7 @@ Não espero ter tudo pronto para começar. Começo, erro, aprendo e melhoro.
 
 ---
 
-## 🛠️ Stack 
+## Stack 
 
 <div align="center">
 
