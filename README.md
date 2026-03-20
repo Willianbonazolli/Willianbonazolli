@@ -51,11 +51,11 @@ Gosto de transformar ideias em projetos reais, evoluindo na prática e buscando 
 
 ## 📂 Outros Projetos
 
-🔹 Expedition 33
-https://willianbonazolli.github.io/meu-site-exp33/
+🔹 Minuto -> Plataforma de Curso
+https://minuto-hazel.vercel.app
 
-🔹 Silksong Fan Site
-https://willianbonazolli.github.io/silksong/
+🔹 Banco de Dados
+https://willianbonazolli.github.io/Immersao-dev-alura
 
 🔹 Portfólio Fotógrafo
 https://portfolio-fotografo-two.vercel.app/
