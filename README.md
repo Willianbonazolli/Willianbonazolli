@@ -8,7 +8,7 @@
 
 ## 👋 Olá, eu sou o Willian
 
-💻 Desenvolvedor em formação | Engenharia de Software
+💻 Desenvolvedor Full - Stack | Engenharia de Software
 
 Sou focado em desenvolvimento web e aprendizado contínuo.
 Gosto de transformar ideias em projetos reais, evoluindo na prática e buscando escrever códigos cada vez mais limpos e eficientes.
