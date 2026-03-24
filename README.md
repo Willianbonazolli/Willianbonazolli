@@ -8,9 +8,9 @@
 
 ## 👋 Olá, eu sou o Willian
 
-💻 Desenvolvedor Full - Stack | Engenharia de Software
+💻 Desenvolvedor Full - Stack | 
 
-Sou focado em desenvolvimento web e aprendizado contínuo.
+Estou focado no momento em desenvolvimento web com integração de frameworks e API'S.
 Gosto de transformar ideias em projetos reais, evoluindo na prática e buscando escrever códigos cada vez mais limpos e eficientes.
 
 ---
