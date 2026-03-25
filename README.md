@@ -37,8 +37,8 @@ Gosto de transformar ideias em projetos reais, evoluindo na prática e buscando 
 
 <div align="center">
 
-<a href="https://willianbonazolli.github.io/meu-site-exp33/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Willianbonazolli&repo=meu-site-exp33&theme=dark&hide_border=true&bg_color=0d0d0d" />
+<a href="https://minuto-hazel.vercel.app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Willianbonazolli&repo=minuto&theme=dark&hide_border=true&bg_color=0d0d0d" />
 </a>
 
 <a href="https://willianbonazolli.github.io/silksong/">
