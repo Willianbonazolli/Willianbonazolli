@@ -29,7 +29,7 @@ Gosto de transformar ideias em projetos reais, evoluindo na prática e buscando 
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,c,postgres,mysql,git&perline=6" />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Willianbonazolli&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Willianbonazolli&show_icons=true&theme=tokyonight)
 
 </div>
 
