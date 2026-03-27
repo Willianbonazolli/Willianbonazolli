@@ -4,11 +4,12 @@
 
 </div>
 
-<div align="center">
-
 <div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2000"/>
+
+<div align="left">
+
 
 ## 👋 Olá, eu sou o Willian
 
