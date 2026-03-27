@@ -6,6 +6,10 @@
 
 <div align="center">
 
+<main>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=120"/>
+
 ## 👋 Olá, eu sou o Willian
 
 💻 Desenvolvedor Full-Stack  
@@ -92,3 +96,5 @@ https://portfolio-fotografo-two.vercel.app/
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=100&section=footer" />
 
 </div>
+
+</main>
