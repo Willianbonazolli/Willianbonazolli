@@ -1,13 +1,8 @@
-<!-- TOPO (background) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=300&section=header"/>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=180&section=header&text=Willian%20Bonazzoli&fontSize=40&fontColor=ffffff" />
 
 </div>
-
----
 
 <div align="center">
 
@@ -22,9 +17,6 @@ Gosto de transformar ideias em projetos reais, evoluindo na prática e buscando 
 
 ---
 
-<!-- FAIXA ESCURA -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=120"/>
-
 ## 🚀 Atualmente
 
 - Cursando Engenharia de Software  
@@ -32,9 +24,6 @@ Gosto de transformar ideias em projetos reais, evoluindo na prática e buscando 
 - Estudando lógica, boas práticas e Clean Code  
 
 ---
-
-<!-- FAIXA ESCURA -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=120"/>
 
 ## 🧠 Stack
 
@@ -45,9 +34,6 @@ Gosto de transformar ideias em projetos reais, evoluindo na prática e buscando 
 </div>
 
 ---
-
-<!-- FAIXA ESCURA -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=120"/>
 
 ## 📊 Estatísticas
 
@@ -60,9 +46,6 @@ Gosto de transformar ideias em projetos reais, evoluindo na prática e buscando 
 </div>
 
 ---
-
-<!-- FAIXA ESCURA -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=120"/>
 
 ## 🚀 Projetos em Destaque
 
@@ -79,9 +62,6 @@ Gosto de transformar ideias em projetos reais, evoluindo na prática e buscando 
 </div>
 
 ---
-
-<!-- FAIXA ESCURA -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=120"/>
 
 ## 📂 Outros Projetos
 
@@ -107,5 +87,8 @@ https://portfolio-fotografo-two.vercel.app/
 
 ---
 
-<!-- RODAPÉ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=200&section=footer"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=100&section=footer" />
+
+</div>
