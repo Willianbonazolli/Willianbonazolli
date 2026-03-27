@@ -17,7 +17,7 @@ Gosto de transformar ideias em projetos reais, evoluindo na prática e buscando 
 
 ---
 
-## 🚀 Atualmente
+##  Atualmente
 
 - Cursando Engenharia de Software  
 - Desenvolvendo projetos Full-Stack  
@@ -25,7 +25,7 @@ Gosto de transformar ideias em projetos reais, evoluindo na prática e buscando 
 
 ---
 
-## 🧠 Stack
+##  Stack
 
 <div align="center">
 
@@ -35,7 +35,7 @@ Gosto de transformar ideias em projetos reais, evoluindo na prática e buscando 
 
 ---
 
-## 📊 Estatísticas
+##  Estatísticas
 
 <div align="center">
 
@@ -47,18 +47,14 @@ Gosto de transformar ideias em projetos reais, evoluindo na prática e buscando 
 
 ---
 
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-<a href="https://minuto-hazel.vercel.app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Willianbonazolli&repo=minuto&bg_color=0d0d0d&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" />
-</a>
-
-<a href="https://willianbonazolli.github.io/silksong/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Willianbonazolli&repo=silksong&bg_color=0d0d0d&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" />
-</a>
-
+## Projetos em Destaque 
+<div align="center"> 
+  <a href="https://minuto-hazel.vercel.app"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Willianbonazolli&repo=minuto&theme=dark&hide_border=true&bg_color=0d0d0d" /> 
+  </a> 
+  <a href="https://willianbonazolli.github.io/silksong/"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Willianbonazolli&repo=silksong&theme=dark&hide_border=true&bg_color=0d0d0d" /> 
+  </a> 
 </div>
 
 ---
