@@ -33,7 +33,7 @@ Gosto de transformar ideias em projetos reais, evoluindo na prática e buscando 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,c,postgres,mysql,git&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,c,postgres,java,mysql,git&perline=6" />
 
 </div>
 
