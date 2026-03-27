@@ -34,7 +34,11 @@ Gosto de transformar ideias em projetos reais, evoluindo na prática e buscando 
 
 ---
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Willianbonazolli&show_icons=true&theme=tokyonight)
+<div align="center">
+
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Willianbonazolli&show_icons=true&theme=github_dark&hide_border=true)
+
+</div>
 
 ##  Projetos em Destaque
 
