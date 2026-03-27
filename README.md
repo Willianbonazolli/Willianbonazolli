@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<main>
+<div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=120"/>
 
@@ -97,4 +97,4 @@ https://portfolio-fotografo-two.vercel.app/
 
 </div>
 
-</main>
+</div>
