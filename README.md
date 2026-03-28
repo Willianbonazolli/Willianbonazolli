@@ -15,7 +15,7 @@
 💻 Desenvolvedor Full-Stack  
 
 Estou focado no momento em desenvolvimento com integração de frameworks e API'S.  
-Gosto de transformar ideias em projetos reais, evoluindo na prática e buscando escrever códigos cada vez mais limpos e eficientes.
+Gosto de transformar ideias em projetos, evoluindo na prática e buscando escrever códigos cada vez mais limpos e eficientes.
 
 </div>
 
@@ -25,7 +25,7 @@ Gosto de transformar ideias em projetos reais, evoluindo na prática e buscando 
 
 - Cursando Engenharia de Software  
 - Desenvolvendo projetos Full-Stack  
-- Estudando lógica, boas práticas e Clean Code  
+- Estudando boas práticas de Clean Code  
 
 ---
 
