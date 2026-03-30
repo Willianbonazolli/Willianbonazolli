@@ -56,7 +56,7 @@ Gosto de transformar ideias em projetos, evoluindo na prática e buscando escrev
   <a href="https://minuto-hazel.vercel.app"> 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Willianbonazolli&repo=minuto&theme=dark&hide_border=true&bg_color=0d0d0d" /> 
   </a> 
-  <a href="https://willianbonazolli.github.io/silksong/"> 
+  <a href="https://github.com/Willianbonazolli/silksong?tab=readme-ov-file"> 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Willianbonazolli&repo=silksong&theme=dark&hide_border=true&bg_color=0d0d0d" /> 
   </a> 
 </div>
