@@ -12,7 +12,7 @@
 
 <div align="left">
 
-💻 Desenvolvedor Full-Stack  
+## Desenvolvedor Full-Stack  
 
 Estou focado no momento em desenvolvimento com integração de frameworks e API'S.  
 Gosto de transformar ideias em projetos, evoluindo na prática e buscando escrever códigos cada vez mais limpos e eficientes.
@@ -73,12 +73,13 @@ https://portfolio-fotografo-two.vercel.app/
 
 ---
 
-## 📫 Contato
+##  Contato
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-bonazzoli/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Willianbonazolli)
+Email para contato: willianbonazzoli@gmail.com
 
 </div>
 
